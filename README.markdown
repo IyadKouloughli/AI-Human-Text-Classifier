@@ -89,6 +89,3 @@ model = DistilBertForSequenceClassification.from_pretrained("best_distilbert_mod
     Human      1.00      0.98      0.99      1000
        AI      0.98      1.00      0.99      1000
 ```
-
-## License
-This project is licensed under the MIT License.
